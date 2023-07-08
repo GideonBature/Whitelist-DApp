@@ -14,7 +14,7 @@ The `Whitelist` contract allows for the whitelisting of addresses. It includes t
 - `numAddressesWhitelisted`: The number of addresses that have been whitelisted.
 - `addAddressToWhitelist()`: A function to add the address of the sender to the whitelist.
 
-You can find the complete code for the `Whitelist` contract [here](https://github.com/GideonBature/Smart-Contract-Projects/blob/main/Whitelist.sol).
+You can find the complete code for the `Whitelist` contract [here](https://github.com/GideonBature/Whitelist-DApp/blob/main/hardhat-tutorial/contracts/Whitelist.sol).
 
 ### Lock Contract
 
@@ -24,6 +24,6 @@ The `Lock` contract allows for time-based withdrawal of funds. It includes the f
 - `owner`: The owner of the contract.
 - `withdraw()`: A function to withdraw funds from the contract.
 
-You can find the complete code for the `Lock` contract [here](https://github.com/GideonBature/Smart-Contract-Projects/blob/main/Lock.sol).
+You can find the complete code for the `Lock` contract [here](https://github.com/GideonBature/Whitelist-DApp/blob/main/hardhat-tutorial/contracts/Lock.sol).
 
 Feel free to explore the code and further understand the functionality of the "Whitelist-DApp" project.
